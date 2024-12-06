@@ -5,7 +5,7 @@ import os
 import asyncio
 
 load_dotenv()
-TOKEN = os.getenv("MTMxNDY4Mjg4Mzc2MzQ3MDQxNw.GkIvJX.CvViwhxArFhkciqd-W9kzf7PZV7rU0ZiS8SHTU")
+TOKEN = os.getenv("MTMxNDY4Mjg4Mzc2MzQ3MDQxNw.G1a6Du.sDDDCedQIOiJ34tq__mdPYhhA3PYiue-DoHJQo")
 
 intents = nextcord.Intents.default()
 intents.message_content = True
